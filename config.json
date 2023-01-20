@@ -7,8 +7,8 @@
   "Prefix" : "Multi",
   "sessionName": "botindo",
   "Mode": "Public",
-  "pathImg": "./media/bobi.jpg",
-  "fakeImg": "./media/fake.jpg",
+  "pathImg": "./media/images (11).jpeg",
+  "fakeImg": "./media/images (11).jpeg",
   "gamewaktu": 60,
   "limitCount": 20,
   "gcount": {
